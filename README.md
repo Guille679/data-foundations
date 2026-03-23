@@ -11,10 +11,12 @@ Cubre Python desde los fundamentos hasta análisis de datos real con NumPy, Pand
 
 | Carpeta | Contenido |
 |---|---|
-| `01_python_fundamentals/` | Tipos de datos, control de flujo, funciones, OOP |
-| `02_numpy/` | Arrays, operaciones vectoriales, álgebra lineal básica |
-| `03_pandas/` | DataFrames, limpieza de datos, agregación |
-| `04_matplotlib/` | Visualización — gráficos, plots, personalización |
+| `guia_01/` | Algoritmia y descomposición de problemas — sin código |
+| `guia_02/` | Tipos de datos, expresiones y funciones |
+| `guia_03/` | Estructuras de control: condicionales y ciclos |
+| `guia_04/` | Estructuras de datos: strings, listas, tuplas, diccionarios |
+| `guia_05/` | Entrada/salida: archivos y manejo de errores |
+| `guia_06/` | Bibliotecas: NumPy, Pandas, Matplotlib |
 | `projects/` | Proyectos completos de análisis de datos |
 
 ---
@@ -37,8 +39,13 @@ Construir una base sólida en el ecosistema de datos de Python que cubra:
 python 3.10+
 ```
 
-Cada carpeta tiene su propio README con instrucciones y dependencias específicas.
+Guías 1–5: sin dependencias externas.  
+Guía 6 en adelante:
+
+```bash
+pip install numpy pandas matplotlib
+```
 
 ---
 
-> Repositorio en construcción activa — se actualiza a lo largo del cuatrimestre.  
+> Repositorio en construcción activa — se actualiza a lo largo del cuatrimestre.

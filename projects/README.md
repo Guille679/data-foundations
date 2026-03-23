@@ -1,31 +1,24 @@
-# 🚀 Proyectos
+# Proyectos
 
-Proyectos completos de análisis de datos aplicando Python, NumPy, Pandas y Matplotlib sobre datasets reales.
+Proyectos completos de análisis de datos sobre datasets reales. Aplican todo el stack visto en la materia y están pensados para escalar más allá del CBC.
 
 ---
-
-## 📁 Proyectos
 
 *Próximamente — se agregan a medida que se completan.*
 
 <!-- TEMPLATE — copiar y completar por cada proyecto
 ### 📌 Nombre del Proyecto
 Descripción breve: qué problema resuelve, qué dataset usa, qué técnicas aplica.
-`pandas` `matplotlib` · [Ver proyecto →](./nombre-proyecto/)
+`pandas` `matplotlib` `numpy` · [Ver →](./nombre-proyecto/)
 -->
 
 ---
 
-## 🎯 Objetivo
+## Estructura de cada proyecto
 
-Demostrar capacidad de análisis end-to-end:
-
-1. Obtención o carga de datos
-2. Limpieza y transformación con Pandas
-3. Análisis y cálculos con NumPy
-4. Visualización con Matplotlib
-5. Conclusiones
-
----
-
-> Los proyectos en esta carpeta están pensados para escalar más allá de la materia.
+```
+projects/nombre-proyecto/
+├── README.md        ← descripción, dataset, conclusiones
+├── main.py
+└── data/
+```
