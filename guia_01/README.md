@@ -3,7 +3,7 @@
 Ejercicios de descomposición de problemas y pensamiento algorítmico. No hay código — el objetivo es aprender a describir procesos de forma precisa, finita y ordenada antes de programar.
 
 ---
-
+ 
 ## Temas
 
 - Definición de algoritmo
