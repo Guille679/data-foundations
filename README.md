@@ -49,4 +49,3 @@ pip install numpy pandas matplotlib
 ---
 
 > Repositorio en construcción activa — se actualiza a lo largo del cuatrimestre.
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
