@@ -4,6 +4,7 @@ Repositorio de práctica y proyectos construido durante la materia **Pensamiento
 Cubre Python desde los fundamentos hasta análisis de datos real con NumPy, Pandas y Matplotlib.
 
 **Stack:** Python · NumPy · Pandas · Matplotlib
+**PLUS** SQL · Power Bi · Excel
 
 ---
 
@@ -49,3 +50,4 @@ pip install numpy pandas matplotlib
 ---
 
 > Repositorio en construcción activa — se actualiza a lo largo del cuatrimestre.
+> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
