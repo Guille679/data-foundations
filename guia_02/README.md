@@ -20,29 +20,29 @@ Primeros scripts en Python. Foco en tipos de datos, operadores, variables y defi
 
 ## Ejercicios
 
-| N° | Descripción |
+| Archivo | Descripción |
 |---|---|
-| 1 | Guardar e imprimir un string |
-| 2 | Guardar e imprimir tres números |
-| 3 | Operaciones aritméticas entre variables |
-| 4 | Programa con `input`: nombre y edad |
-| 5 | Resto de la división por 2 |
-| 6 | Calcular edad a partir del año de nacimiento |
-| 7 | Promedio de 5 enteros (dos versiones) |
-| 8 | Función: valor absoluto propio |
-| 9 | Función: detectar si un número es par |
-| 10 | Función: concatenar número y string |
-| 11 | Función: devolver resto y cociente |
-| 12 | Función: imprimir nombre en formato "Apellido, Nombre" |
-| 13 | Función: cantidad de letras de una palabra |
-| 14 | Función: slicing — primeros 5 chars, posiciones pares, palabra invertida |
-| 15 | Función: eliminar todas las "a" de una palabra |
-| 16 | Análisis de tipos de datos por operación |
-| 17 | Función: conversión Celsius ↔ Fahrenheit |
-| 18 | Función: área de un triángulo |
-| 19 | Función: norma de un vector en R³ |
-| 20 | ⭐ Desafío: área de un rectángulo por coordenadas |
-| EC | Evaluación de código: identificar y corregir errores |
+| `ejercicio_1.py` | Guardar e imprimir un string |
+| `ejercicio_2.py` | Guardar e imprimir tres números |
+| `ejercicio_3.py` | Operaciones aritméticas entre variables |
+| `ejercicio_4.py` | Programa con `input`: nombre y edad |
+| `ejercicio_5.py` | Resto de la división por 2 |
+| `ejercicio_6.py` | Calcular edad a partir del año de nacimiento |
+| `ejercicio_7.py` | Promedio de 5 enteros (dos versiones) |
+| `ejercicio_8.py` | Función: valor absoluto propio |
+| `ejercicio_9.py` | Función: detectar si un número es par |
+| `ejercicio_10.py` | Función: concatenar número y string |
+| `ejercicio_11.py` | Función: devolver resto y cociente |
+| `ejercicio_12.py` | Función: imprimir nombre en formato "Apellido, Nombre" |
+| `ejercicio_13.py` | Función: cantidad de letras de una palabra |
+| `ejercicio_14.py` | Función: slicing — primeros 5 chars, posiciones pares, palabra invertida |
+| `ejercicio_15.py` | Función: eliminar todas las "a" de una palabra |
+| `ejercicio_16.py` | Análisis de tipos de datos por operación |
+| `ejercicio_17.py` | Función: conversión Celsius ↔ Fahrenheit |
+| `ejercicio_18.py` | Función: área de un triángulo |
+| `ejercicio_19.py` | Función: norma de un vector en R³ |
+| `ejercicio_20.py` | ⭐ Desafío: área de un rectángulo por coordenadas |
+| `ejercicio_ec.py` | Evaluación de código: identificar y corregir errores |
 
 ---
 
@@ -50,5 +50,9 @@ Primeros scripts en Python. Foco en tipos de datos, operadores, variables y defi
 
 ```
 guia_02/
-└── ejercicios.py
+├── README.md
+├── ejercicio_1.py
+├── ejercicio_2.py
+├── ...
+└── ejercicio_ec.py
 ```
