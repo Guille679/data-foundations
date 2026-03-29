@@ -3,8 +3,7 @@
 Repositorio de práctica y proyectos construido durante la materia **Pensamiento Computacional** del CBC — UBA.  
 Cubre Python desde los fundamentos hasta análisis de datos real con NumPy, Pandas y Matplotlib.
 
-**Stack:** Python · NumPy · Pandas · Matplotlib
-**PLUS** SQL · Power Bi · Excel
+**Stack:** Python · NumPy · Pandas · Matplotlib · SQL · Power Bi · Excel
 
 ---
 
